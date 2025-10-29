@@ -1,0 +1,24 @@
+.square {
+  width: 60px;
+  height: 60px;
+  font-size: 24px;
+  margin: 2px;
+}
+
+.board-row {
+  display: flex;
+}
+
+.highlight {
+  background-color: yellow;
+}
+
+.status {
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.game {
+  display: flex;
+  gap: 20px;
+}
