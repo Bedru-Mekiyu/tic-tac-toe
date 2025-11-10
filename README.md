@@ -39,5 +39,5 @@ This project is based on the official React tutorial — enhanced with animation
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/yourusername/tic-tac-toe.git
+   git clone https://github.com/Bedru-Mekiyu/tic-tac-toe.git
    cd tic-tac-toe
